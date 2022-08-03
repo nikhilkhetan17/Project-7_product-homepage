@@ -1,14 +1,14 @@
-## ⭐Project 06- Plant Home Page⭐
+## ⭐Project 07- Product Home Page⭐
 
 <br>
 
-## 📌 Live Site URL: <a href="https://06plant-homepage.netlify.app/">**Visit Now**</a>
+## 📌 Live Site URL: <a href="https://07product-homepage.netlify.app//">**Visit Now**</a>
 
 <br>
 
 ## 📌 Screenshot:
 
-![project1](./photos/project6.png)
+![project1](./images/project7.png)
 
 <br>
 
@@ -16,12 +16,12 @@
 
 - ### Learned about CSS position properties
 - ### Learned about Flexbox properties
-- ### Learned about margin and padding
+- ### Learned about Z-index
 <br>
 
 ## 📌 Time Taken To Complete This Project:
 
-- ### It took me 4 hours to complete this project
+- ### It took me 3 hours to complete this project
 
 <br>
 
